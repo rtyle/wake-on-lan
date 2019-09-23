@@ -20,10 +20,10 @@ definition(
 	author			: 'Ross Tyler',
 	description		: 'When triggered by an associated switch turning on, turn on another device by targeting it with a Wake on LAN (WoL) magic packet.',
 	category		: 'Convenience',
-    singleInstance	: false,
-    iconUrl     	: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app.png",
-    iconX2Url   	: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app@2x.png",
-    iconX3Url   	: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app@3x.png",
+	singleInstance	: false,
+	iconUrl			: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app.png",
+	iconX2Url		: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app@2x.png",
+	iconX3Url		: "https://raw.githubusercontent.com/rtyle/wake-on-lan/master/resources/icons/app@3x.png",
 )
 
 preferences {
