@@ -1,7 +1,7 @@
 # wake-on-lan
 Use any SmartThings switch (including a virtual one) to wake up a device on your LAN.
 
-<h3> 2019 Samsung QLED Q90R TVs
+### 2019 Samsung QLED Q90R TVs</h3>
 
 2019 Samsung QLED Q90R TVs cannot be turned on through their SmartThings integration.
 This is probably true of all 2019 and earlier Samsung TVs.
