@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93334"
+   version="1.1"
+   id="svg4734"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="app.svg"
+   inkscape:export-filename="/home/ross/wake-on-lan/resources/icons/app.png"
+   inkscape:export-xdpi="5.6250796"
+   inkscape:export-ydpi="5.6250796">
+  <defs
+     id="defs4728" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="523.54145"
+     inkscape:cy="634.07908"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3840"
+     inkscape:window-height="2090"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-26.06665)"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:52.91666667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4738"
+       sodipodi:type="arc"
+       sodipodi:cx="135.46666"
+       sodipodi:cy="161.53333"
+       sodipodi:rx="109.00449"
+       sodipodi:ry="109.00449"
+       sodipodi:start="5.4977871"
+       sodipodi:end="3.9269908"
+       sodipodi:open="true"
+       d="M 212.54447,84.455505 A 109.00449,109.00449 0 0 1 236.17368,203.24754 109.00449,109.00449 0 0 1 135.46666,270.53782 109.00449,109.00449 0 0 1 34.75964,203.24754 109.00449,109.00449 0 0 1 58.388842,84.45551"
+       inkscape:label="0 arc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.51111221px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:center;letter-spacing:1.46579158px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text5343"
+       inkscape:label="LAN"><textPath
+         xlink:href="#path5283"
+         startOffset="50%"
+         id="textPath5345"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.51111221px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:center;letter-spacing:26.45833397px;writing-mode:lr-tb;text-anchor:middle;fill:#00ff00;stroke-width:0.26458332">LAN</textPath></text>
+    <circle
+       inkscape:label="LAN arc"
+       id="path5283"
+       style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30050373;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="-117.10907"
+       cy="175.2989"
+       r="123.80318"
+       transform="matrix(-0.99407694,0.10867856,0.10867856,0.99407694,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:center;letter-spacing:1.46579158px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text5339"
+       inkscape:label="WAKE"><textPath
+         xlink:href="#circle5350"
+         startOffset="50%"
+         id="textPath5352"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.51111221px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:center;letter-spacing:13.22916698px;writing-mode:lr-tb;text-anchor:middle;fill:#00ff00;stroke-width:0.26458332">WAKE</textPath></text>
+    <circle
+       transform="matrix(0.99842374,-0.05612524,-0.05612524,-0.99842374,0,0)"
+       r="123.80318"
+       cy="-168.88184"
+       cx="126.18701"
+       style="display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30050373;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle5350"
+       inkscape:label="WAKE arc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:79.3657074px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.48017836;opacity:0.99999998;"
+       x="190.38692"
+       y="94.023117"
+       id="text5357"
+       transform="scale(0.99567203,1.0043468)"
+       inkscape:label="1 ON"><tspan
+         sodipodi:role="line"
+         id="tspan5355"
+         x="98.274841"
+         y="186.13519"
+         style="letter-spacing:0px;writing-mode:vertical-lr;stroke-width:2.48017836;"
+         rotate="90 90 0">ON</tspan></text>
+  </g>
+</svg>
