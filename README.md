@@ -1,5 +1,5 @@
 # wake-on-lan
-Use any SmartThings switch (including a virtual one) to wake up a device on your LAN.
+Use any SmartThings switch (including a virtual one) to wake up a device on the LAN of your SmartThings hub.
 
 ### 2019 Samsung QLED Q90R TVs</h3>
 
