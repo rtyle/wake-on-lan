@@ -11,7 +11,7 @@ When Google Home is asked to turn on the TV (through its SmartThings integration
 
 A solution is to deploy an instance of this SmartApp.
 The instance will need to be configured with a switch to trigger it and the target MAC address of the TV on your SmartThings hub's LAN.
-When the trigger switch is turned on, the SmartApp will use [Wake-on-LAN](https://en.wikipedia.org/wiki/Wake-on-LAN) to turn on the TV.
+When the trigger switch is turned on, the SmartApp will ask your SmartThings hub to use [Wake-on-LAN](https://en.wikipedia.org/wiki/Wake-on-LAN) to turn on the TV.
 
 For lack of a smart physical switch to use as a trigger, one can use a virtual switch.
 
